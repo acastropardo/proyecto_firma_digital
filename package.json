@@ -1,0 +1,15 @@
+{
+  "name": "firma_digital",
+  "version": "1.0.0",
+  "description": "Node.js en Docker, java, y portableSigner",
+  "author": "Abraham Castro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "node-cmd": "^3.0.0",
+    "body-parser": "^1.18.2"
+  }
+}
